@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc Electrical Engineering @ GWU  &middot; Project Engineer I @ Honeywell #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-  # <p align="left"> 
-  # <img src="https://komarev.com/ghpvc/?username=mujganhuseynli&label=Profile%20views&color=0e75b6&style=flat" alt="mujganhuseynli" /> 
+subtitle:
+  MSc Electrical Engineering @ GWU  &middot; Project Engineer I @ Honeywell #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+  # <p align="left">
+  # <img src="https://komarev.com/ghpvc/?username=mujganhuseynli&label=Profile%20views&color=0e75b6&style=flat" alt="mujganhuseynli" />
   # <a href="https://linkedin.com/in/mujganhuseynli"><img src="https://img.shields.io/badge/-mujganhuseynli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mujganhuseynli/"/></a>
   # <a href="mailto:huseynli.muzhgan@gmail.com"><img src="https://img.shields.io/badge/-huseynli.muzhgan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:huseynli.muzhgan@gmail.com"/></a>
   # <a href="https://mujganhuseynli.github.io"><img src="https://img.shields.io/badge/-mujganhuseynli-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mujganguseynli"></a>
   # </p>
 profile:
-  align: right 
+  align: right
   image: muju-profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -20,29 +21,31 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-
 ---
+
 I am a second(final) year Master’s Student in Electrical Engineering at the [George Washington University (GWU)](https://www.gwu.edu/) 🇺🇸. Previously, I received my Bachelor's Degree in Electrical Engineering from [Baku Higher Oil School (BHOS)](https://bhos.edu.az/) 🇦🇿, and also spent a semester at [Alcalá University](https://www.uah.es/en/) 🇪🇸.
 
 I am currently working on my [thesis](/thesis.pdf), where we try to design and analyze an FPGA-based controller for GAN-based three phase inverters. This project is carried out under the supervision of [XXX]().
 
-Previously, I worked on designing level control system using Emerson control valves on a testbed rig for my [bachelor's thesis](/bs-thesis.pdf). I also worked on 
-building assistive system for visually impaired people using technologies such as *Arduino, Python, TensorFlow, and OpenCV.*
+Previously, I worked on designing level control system using Emerson control valves on a testbed rig for my [bachelor's thesis](/bs-thesis.pdf). I also worked on
+building assistive system for visually impaired people using technologies such as _Arduino, Python, TensorFlow, and OpenCV._
 
 <!-- I love solving complex challenges in *Robotics, Control Systems, and Power Systems*, particularly through the application of cutting-edge technologies such as Artificial Intelligence, Machine Learning, and IoT to enhance innovation and efficiency. -->
 
-Regarding industry experience, I currently work as a *Project Engineer I* at [Honeywell](https://honeywell.com) 🇺🇸. Previously, I interned as an *Instrumentation and Control Engineer* at [Emerson](https://emerson.com) 🇺🇸 and [Socar Polymer](https://www.socarpolymer.az/) 🇦🇿. Please, check my [resume](/resume.pdf) for the details.
+Regarding industry experience, I currently work as a _Project Engineer I_ at [Honeywell](https://honeywell.com) 🇺🇸. Previously, I interned as an _Instrumentation and Control Engineer_ at [Emerson](https://emerson.com) 🇺🇸 and [Socar Polymer](https://www.socarpolymer.az/) 🇦🇿. Please, check my [resume](/resume.pdf) for the details.
 
-> *I am actively looking for PhD positions in Electrical Engineering.*
+> _I am actively looking for PhD positions in Electrical Engineering._
 
-I love painting 🎨 and photography 📸, you can see some of my works [here](https://www.instagram.com/mujgan.huseynli/). 
+I love painting 🎨 and photography 📸, you can see some of my works [here](https://www.instagram.com/mujgan.huseynli/).
 
 ## Research Interests
+
 - Robotics
 - Control Systems
 - Autonomous Systems
 
 ## Education
+
 <!-- <div style="height: 10px;"></div> -->
 <table>
   <tr>
@@ -68,9 +71,6 @@ I love painting 🎨 and photography 📸, you can see some of my works [here](h
     </td>
   </tr>
 </table>
-
-
-
 
 <!-- <div style="height: 30px;"></div>
 
@@ -101,7 +101,7 @@ I love painting 🎨 and photography 📸, you can see some of my works [here](h
   </tr>
 </table> -->
 
-<!-- 
+<!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

@@ -2,7 +2,7 @@
 layout: post
 # title: A long announcement with details
 date: 2022-07-20 16:11:00-0400
-inline: true 
+inline: true
 related_posts: false
 ---
 Started as an Instrumentation Control Engineer Intern at [SOCAR Polymer](https://www.socarpolymer.az)
