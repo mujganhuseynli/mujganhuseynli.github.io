@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ---
-I am a second(final) year Master’s Student in Electrical Engineering at the [George Washington University (GWU)](https://www.gwu.edu/) 🇺🇸. Previously, I received my Bachelor's Degree in Electrical Engineering from [Baku Higher Oil School (BHOS)](https://bhos.edu.az) 🇦🇿, and also spent a semester at [Alcalá University](https://www.uah.es/en/) 🇪🇸.
+I am a second(final) year Master’s Student in Electrical Engineering at the [George Washington University (GWU)](https://www.gwu.edu/) 🇺🇸. Previously, I received my Bachelor's Degree in Electrical Engineering from [Baku Higher Oil School (BHOS)](https://bhos.edu.az/) 🇦🇿, and also spent a semester at [Alcalá University](https://www.uah.es/en/) 🇪🇸.
 
 I am currently working on my [thesis](/thesis.pdf), where we try to design and analyze an FPGA-based controller for GAN-based three phase inverters. This project is carried out under the supervision of [XXX]().
 
