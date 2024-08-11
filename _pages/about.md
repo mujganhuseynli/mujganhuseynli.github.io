@@ -33,9 +33,9 @@ building assistive system for visually impaired people using technologies such a
 
 Regarding industry experience, I currently work as a *Project Engineer I* at [Honeywell](https://honeywell.com) 🇺🇸. Previously, I interned as an *Instrumentation and Control Engineer* at [Emerson](https://emerson.com) 🇺🇸 and [Socar Polymer](https://www.socarpolymer.az/) 🇦🇿. Please, check my [resume](/resume.pdf) for the details.
 
-
-
 > *I am actively looking for PhD positions in Electrical Engineering.*
+
+I love painting 🎨 and photography 📸, you can see some of my works [here](https://www.instagram.com/mujgan.huseynli/). 
 
 ## Research Interests
 - Robotics
