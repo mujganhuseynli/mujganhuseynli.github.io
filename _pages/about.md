@@ -32,7 +32,7 @@ building assistive system for visually impaired people using technologies such a
 
 <!-- I love solving complex challenges in *Robotics, Control Systems, and Power Systems*, particularly through the application of cutting-edge technologies such as Artificial Intelligence, Machine Learning, and IoT to enhance innovation and efficiency. -->
 
-Regarding industry experience, I currently work as a _Project Engineer I_ at [Honeywell](https://honeywell.com) 🇺🇸. Previously, I interned as an _Instrumentation and Control Engineer_ at [Emerson](https://emerson.com) 🇺🇸 and [Socar Polymer](https://www.socarpolymer.az/) 🇦🇿. Please, check my [resume](/resume.pdf) for the details.
+Regarding industry experience, I currently work as a _Project Engineer I_ at [Honeywell](https://honeywell.com) 🇺🇸. Previously, I interned as an _Instrumentation and Control Engineer_ at [Emerson](https://emerson.com) 🇺🇸 and [Socar Polymer](https://www.socarpolymer.az/) 🇦🇿. Please, check my [resume](assets/pdf/resume.pdf) for the details.
 
 > _I am actively looking for PhD positions in Electrical Engineering._
 
