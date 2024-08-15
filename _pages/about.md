@@ -36,7 +36,7 @@ Regarding industry experience, I currently work as a _Project Engineer I_ at [Ho
 
 > _I am actively looking for PhD positions in Electrical Engineering._
 
-I love painting 🎨 and photography 📸, you can see some of my works [here](https://www.instagram.com/mujgan.huseynli/).
+I love painting 🎨 and photography 📸, you can see some of my works [here](blog/2024/gallery).
 
 ## Research Interests
 
