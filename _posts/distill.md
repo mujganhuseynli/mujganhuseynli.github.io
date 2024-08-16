@@ -33,7 +33,7 @@ toc:
   - name: Equations
     # if a section has subsections, you can add them as follows:
     # subsections:
-      # - name: Example Child Subsection 1
+    # - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
   - name: Citations
   - name: Footnotes
