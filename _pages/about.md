@@ -25,9 +25,9 @@ social: false # includes social icons at the bottom of the page
 
 I am a second(final) year Master’s Student in Electrical Engineering at the [George Washington University (GWU)](https://www.gwu.edu/) 🇺🇸. Previously, I received my Bachelor's Degree in Electrical Engineering from [Baku Higher Oil School (BHOS)](https://bhos.edu.az/) 🇦🇿, and also spent a semester at [Alcalá University](https://www.uah.es/en/) 🇪🇸.
 
-I am currently working on my [thesis](/thesis.pdf), where we try to design and analyze an FPGA-based controller for GAN-based three phase inverters. This project is carried out under the supervision of [XXX]().
+I am currently working on my [thesis](/assets/pdf/MscThesis.pdf), where we try to design and analyze an FPGA-based controller for GAN-based three phase inverters.
 
-Previously, I worked on designing level control system using Emerson control valves on a testbed rig for my [bachelor's thesis](/bs-thesis.pdf). I also worked on
+Previously, I worked on designing level control system using Emerson control valves on a testbed rig for my [bachelor's thesis](/assets/pdf/BscThesis.pdf). I also worked on
 building assistive system for visually impaired people using technologies such as _Arduino, Python, TensorFlow, and OpenCV._
 
 <!-- I love solving complex challenges in *Robotics, Control Systems, and Power Systems*, particularly through the application of cutting-edge technologies such as Artificial Intelligence, Machine Learning, and IoT to enhance innovation and efficiency. -->
