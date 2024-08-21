@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
   MSc Electrical Engineering @ GWU  &middot; Project Engineer I @ Honeywell #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
